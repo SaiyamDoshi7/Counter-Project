@@ -1,8 +1,7 @@
-import ReminderCounter from "./components/ReminderCounter";
-import { useReducer } from "./components/UseReducer";
+import ReminderCounter from "./components/ReminderCounter.jsx";
 
 function App() {
-  return <ReminderCounter/>; 
+  return <ReminderCounter />;
 }
 
 export default App;
